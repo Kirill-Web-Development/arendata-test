@@ -56,4 +56,5 @@
 
 # Автоматизированный тест-кейс
 Видео: https://drive.google.com/drive/folders/1z6xP_2wsSlEcj04TmMDXzi2A1sIGxu9l?usp=sharing
+
 ![Результат](/result.png)
